@@ -25,3 +25,20 @@ align-items: center;
     height: 2000px;
     
  }
+ .body4 {
+    background-color: gold;
+    width: 2000px;
+    height: 2000px;
+align-items: center;
+  
+ }
+    
+
+ .body5img {
+    background-color: gold;
+    width: 4000px;
+    height: 4000px;
+    padding: 80px;
+
+  
+ }
